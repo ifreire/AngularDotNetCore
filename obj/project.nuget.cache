@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7g0xwXIoNWpsZM2icElCI5grMq+vN/AeeIaOMyWW8OhRxSGoTHqgpuxjRINJFPg0psgBavvy+iZXqLA/1xAKQ==",
+  "success": true,
+  "projectFilePath": "/home/ifreire/Projects/DotNet_Core/AngularDotNetCore/AngularDotNetCore.csproj",
+  "expectedPackageFiles": [
+    "/home/ifreire/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.11/microsoft.aspnetcore.spaservices.extensions.5.0.11.nupkg.sha512",
+    "/home/ifreire/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/home/ifreire/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/home/ifreire/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/home/ifreire/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
